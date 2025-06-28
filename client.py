@@ -7,7 +7,7 @@ import time
 import argparse
 
 # Client configuration
-HOST = '172.16.5.108'
+HOST = ''
 PORT = 65432
 BUFFER_SIZE = 4096
 
